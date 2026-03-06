@@ -45,21 +45,12 @@ maven project auto build and publish on remote server
 ### 2.2 现有项目统计与业务分布
 - 项目总数：21个
 - 核心业务方向：OA中间服务、农投惠民、闭环管理、应急保供、风险防范等
-- 代码库类型：均为Git仓库，部署于内部Git服务器（10.10.1.26:19501）
+- 代码库类型：均为Git仓库，部署于内部Git服务器（xxx.xx.xx.xx:xxx）
 
 ### 2.3 关键项目清单
 | git代码库地址 | 项目名称 | 项目路径 |
 | --- | --- | --- |
-| http://10.10.1.26:19501/yangzq/oaandncmiddleware.git | OA与nc65中间服务 | oaandncmiddleware |
-| http://10.10.1.26:19501/taoxg/printplug.git | 批量打印插件 | printplug |
-| http://10.10.1.26:19501/yangzq/closedloop.git | 闭环管理 | closedloop |
-| http://10.10.1.26:19501/taoxg/hmnbg.git | 农投惠民-疫情保供，商城保供辅助程序 | hmnbg |
-| http://10.10.1.26:19501/yangzq/network.git | 农投一张网工程目录 | network |
-| http://10.10.1.26:19501/yangzq/networkshow.git | networkshow | networkshow |
-| http://10.10.1.26:19501/yangzq/oadeptandusersyn.git | OADeptAndUserSyn | oadeptandusersyn |
-| http://10.10.1.26:19501/yangzq/petition.git | petition | petition |
-| http://10.10.1.26:19501/yangzq/emergencymanagement.git | 应急保供仓库 | emergencymanagement |
-| http://10.10.1.26:19501/yangzq/riskprevention.git | 风险防范 | riskprevention |
+| http://xxx.xx.xx.xx:xxx/yangzq/oaandncmiddleware.git | OA中间服务 | oaandncmiddleware |
 
 ### 2.4 当前使用痛点与待优化点
 - 部分项目发布流程不规范，缺乏统一标准
